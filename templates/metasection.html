@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ config.title }} | {{ section.title }}
+{% endblock title %}
+
+{% block header %}
+<header class='hero'>
+  <div class='hero-body pb-0'>
+    <div class='container'>
+      <div class='has-text-centered'>
+        <h1 class='title'>{{ section.title }}</h1>
+        <p class='subtitle'>{{ section.description }}</p>
+      </div>
+      <div class="content">
+        {{ section.content | safe }}
+      </div>
+    </div>
+  </div>
+</header>
+{% endblock %}
+
+{% block content %}
+<section class="section">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-9">
+        {% for subpath in section.subsections %}
+        <h1>{{subpath}}</h1>
+        test<br>
+          {% set subsection = get_section(path=subpath) %}
+          {{subsection.content | safe}}
+          <h1>{{subsection.content | markdown(inline=true)}}</h1>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}
