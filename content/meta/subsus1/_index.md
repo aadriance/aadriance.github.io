@@ -1,4 +1,4 @@
 +++
-title = "List of blog posts"
+title = "A Subsection"
 sort_by = "date"
 +++
