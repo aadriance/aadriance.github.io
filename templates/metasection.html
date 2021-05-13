@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ config.title }} | {{ section.title }}
+{% endblock title %}
+
+{% block header %}
+<header class='hero'>
+  <div class='hero-body pb-0'>
+    <div class='container'>
+      <div class='has-text-centered'>
+        <h1 class='title'>{{ section.title }}</h1>
+        <p class='subtitle'>{{ section.description }}</p>
+      </div>
+      <div class="content">
+        {{ section.content | safe }}
+      </div>
+    </div>
+  </div>
+</header>
+{% endblock %}
+
+{% block content %}
+<section class="section">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-9">
+        {% for subpath in section.subsections %}
+          {% set subsection = get_section(path=subpath) %}
+          <h1 class="title">{{subsection.title}}</h1>
+          <div class="columns is-multiline is-centered">
+          {% for page in subsection.pages %}
+          <div class="column is-half">
+            <article class="box">
+              <h2 class="title">
+                <a href='{{ page.permalink }}'>
+                  {{ page.title }}
+                  <span class="icon is-small">
+                    <i class="fas fa-arrow-right fa-xs"></i>
+                  </span>
+                </a>
+              </h2>
+              {% if page.extra.heroimage %}
+              <figure>
+                <img src='{{page.extra.heroimage}}' />
+              </figure>
+              {% endif %}
+              <p class="subtitle">{{ page.description }}</p>
+            </article>
+          </div>
+          {% endfor %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}
