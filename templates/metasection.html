@@ -28,9 +28,9 @@
         {% for subpath in section.subsections %}
           {% set subsection = get_section(path=subpath) %}
           <h1 class="title">{{subsection.title}}</h1>
-          <div class="columns">
+          <div class="columns is-multiline is-centered">
           {% for page in subsection.pages %}
-          <div class="column">
+          <div class="column is-half">
             <article class="box">
               <h2 class="title">
                 <a href='{{ page.permalink }}'>
