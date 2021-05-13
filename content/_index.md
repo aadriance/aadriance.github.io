@@ -14,6 +14,3 @@ I started programming with my friend in the third grade when we discovered a pro
 I attended the California Polytechnic State University, San Luis Obispo, for a Masters of Science in Computer Science. Currently I work at Microsoft full time doing kernel development on Windows.
 
 {{ aaicon() }}
-
-{% set section = get_section(path="posts/_index.md") %}
-{{ section.content }}
