@@ -1,5 +1,7 @@
 # The URL the site will be built for
 base_url = "https://www.andrewadriance.com"
+title = "Andrew Adriance"
+description = "The random and disconnected work and thoughts of a programmer"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -13,6 +15,11 @@ taxonomies = [
     { name = "categories", feed = true, paginate_by = 10 },
     { name = "tags", fees = true, paginate_by = 10 },
 ]
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -43,3 +50,6 @@ avatar = "/images/avatar.jpg"
 
 [extra.social]
 github = "aadriance"
+
+[extra.analytics]
+google = "G-CZSTFH31S7"
