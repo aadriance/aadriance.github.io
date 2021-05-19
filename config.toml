@@ -3,6 +3,9 @@ base_url = "https://www.andrewadriance.com"
 title = "Andrew Adriance"
 description = "The random and disconnected work and thoughts of a programmer"
 
+generate_feed = true
+feed_filename = "rss.xml"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
