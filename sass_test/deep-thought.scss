@@ -1,0 +1,22 @@
+@import "./bulma-dracula-vars.scss";
+@import "./bulma/_bulma.sass";
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: $family-sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+body[theme="dark"] {
+    background: $dracula-fg;
+    color: $dracula-bg
+}
+
+section {
+    flex: 1;
+}
