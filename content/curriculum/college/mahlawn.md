@@ -12,9 +12,7 @@ heroimage = "/images/cv/ohmylawn.png"
 
 # Description
 
-'Oh My Lawn!' was created to explore various aspects of the world of real time computer graphics. It required a constant balance between adding new features, and maintaining framerate. It was a valuable experience learning how to deal with adding new features and interactions to a piece of software without sacrificing the responsivness of the product.
-
-This project also gave exposure to many new technologies I didn't work with in my introduction course for Computer Graphics. Specifics on what technologies where implemented are listed in the highlights list below.
+'Oh My Lawn!' was created to explore various aspects of the world of real time computer graphics. It required a constant balance between adding new features, and maintaining frame-rate. It was a valuable experience learning how to deal with adding new features and interactions to a piece of software without sacrificing the responsiveness of the project.
 
 # Highlights
 

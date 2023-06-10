@@ -12,7 +12,7 @@ heroimage = "/images/cv/dodgedungeon.png"
 
 # Description
 
-Dodge Dungeon was created as a final project for my Interactive Entertainment class. The goal of the game was to make a challenging old school dungeon crawler with a wide range of fun and interesting bullet paterns for both visual enjoyment, and for the player to learn how to dodge. The game contains a save system that tracks progress as you travel through the 3 dungeons to relearn the name of your character.
+Dodge Dungeon was created as a final project for my Interactive Entertainment class. The goal of the game was to make a challenging old school dungeon crawler with a wide range of fun and interesting bullet patterns for both visual enjoyment, and for the player to learn how to dodge. The game contains a save system that tracks progress as you travel through the 3 dungeons to relearn the name of your character.
 
 # Highlights
 

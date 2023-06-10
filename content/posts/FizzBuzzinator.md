@@ -7,9 +7,9 @@ categories = ["programming"]
 tags = ["open source", "rust"]
 +++
 
-# I Have Spent Far Too Long Thinking About FizzBuzz
-
 Welcome brave reader. It's dangerous to go along without context. Take [this pointer](https://github.com/aadriance/fizzbuzzinator) to the source of truth on GitHub.
+
+<!-- more -->
 
 For those seeking after the meat of the matter, please detour around my recounting of clarity, for I am aware you have important things needing attention, and I wouldn't desire you waste a moment longer than needed not consuming the important details of my exploratory work on FizzBuzz.
 
