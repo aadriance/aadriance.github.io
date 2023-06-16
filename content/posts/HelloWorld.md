@@ -3,8 +3,8 @@ title = "Hello World!"
 date = 2019-11-27
 
 [taxonomies]
-categories = ["self", "site"]
-tags = ["zola"]
+categories = ["site"]
+tags = ["zola", "self"]
 +++
 
 # Hello!
