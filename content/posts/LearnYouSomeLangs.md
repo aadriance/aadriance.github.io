@@ -22,9 +22,9 @@ I'm convinced the original quotation's etymology has been lost to history. While
 - "Jack of all trades master of none, **but often better than a master of one**" doesn't have an attribution to a particular person that I've heard. However, the claim is that this quote pre-dates the modern truncated counterpart. The purpose being as a complement to someone who was not the top in their field but was able to get things done due to their wide knowledge.
 
 
-Alright, what does this have to do with learning a language? I'd advocate you're a jack of all trades, master of **one**. If you're a career programmer like myself, you will have a small set of languages you code in daily (C for myself). Exposure to languages you don't use daily for your profession can help one your professional skills though, but expanding your understanding of programming and teaching you new tools you can add to your daily work flows.
+Alright, what does this have to do with learning a language? I'd advocate being a jack of all trades, master of **one**. If you're a career programmer you will have a small set of languages you code in daily. Exposure to languages you don't use daily for your profession can help expand your understanding of programming and teach you new tools you can add to your daily work flows.
 
-You don't need to learn these new languages by heart, C is the only language I can confidently spit program out in that's syntactically correct first try, and has all the right libraries/headers included for the task at hand. However, there are many languages I have written small projects in and could pick back up with a small reference on hand.
+You don't need to learn these new languages by heart. However, there are many languages I have written small projects in and could pick back up with a small reference on hand.
 
 So, what types of languages should you learn? And what are their benefits?
 
