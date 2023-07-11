@@ -7,7 +7,7 @@ categories = ["programming"]
 tags = ["self"]
 +++
 
-I don't make pretty fonts appear in your document editor. I don't make ads appear in your search results. I didn't round the corners in your UI. I didn't deliver your email, or track our online order.
+I don't make pretty fonts appear in your document editor. I don't make ads appear in your search results. I didn't round the corners in your UI. I didn't deliver your email, or track your online order.
 
 <!-- more -->
 
