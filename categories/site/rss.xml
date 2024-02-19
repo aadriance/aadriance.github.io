@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Andrew Adriance - site</title>
+      <link>https://www.andrewadriance.com</link>
+      <description>The random and disconnected work and thoughts of a programmer</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://www.andrewadriance.com/categories/site/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>One Month Of Posts</title>
+          <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/amonthofwriting/</link>
+          <guid>https://www.andrewadriance.com/posts/amonthofwriting/</guid>
+          <description>&lt;p&gt;This site started with a cheeky &amp;quot;Hello World&amp;quot; post in 2019. I has ambitions of writing for this site, but failed until 2022 when I found the time to do a silly piece of satire crossing the mediums of code and writing. This month that trajectory changes.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Hello World!</title>
+          <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/helloworld/</link>
+          <guid>https://www.andrewadriance.com/posts/helloworld/</guid>
+          <description>&lt;h1 id=&quot;hello&quot;&gt;Hello!&lt;&#x2F;h1&gt;
+&lt;p&gt;Welcome to my new site.  I had literally zero reason to update it.  However, I was tired
+of looking at the mess the old site was. Maybe I&#x27;ll write some blog posts. &lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

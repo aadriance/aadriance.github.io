@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <meta content="#ffffff" name="theme-color" />
+  <meta content="#da532c" name="msapplication-TileColor" />
+
+  
+  <link href='&#x2F;icons&#x2F;site.webmanifest' rel="manifest" />
+  
+  
+  <link color="#5bbad5" href='&#x2F;icons&#x2F;safari-pinned-tab.svg' rel="mask-icon" />
+  
+  
+  <link href='&#x2F;icons&#x2F;favicon-16x16.png' rel="icon" sizes="16x16" type="image/png" />
+  
+  
+  <link href='&#x2F;icons&#x2F;favicon-32x32.png' rel="icon" sizes="32x32" type="image/png" />
+  
+  
+  <link href='&#x2F;icons&#x2F;apple-touch-icon.png' rel="apple-touch-icon" sizes="180x180" />
+  
+
+  
+
+  
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.1/css/academicons.min.css" integrity="sha384-FIue+PI4SsI9XfHCz8dBLg33b0c1fMJgNU3X//L26FYbGnlSEfWmNT7zgWc2N9b6" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k=" crossorigin="anonymous">
+  <link href="https://www.andrewadriance.com/deep-thought.css" rel="stylesheet" />
+  
+  
+
+  <title>
+    
+Andrew Adriance | Thesis - DHSVM Parallel
+
+  </title>
+
+  
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CZSTFH31S7"></script>
+  <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "G-CZSTFH31S7");
+  </script>
+  
+  
+
+  
+</head>
+
+<body class="has-background-white">
+  <nav aria-label="section navigation" class="navbar is-light" role="navigation">
+    <div class="container">
+      <div class="navbar-brand">
+        <a class="navbar-item is-size-5 has-text-weight-bold" href="https:&#x2F;&#x2F;www.andrewadriance.com">Andrew Adriance</a>
+        <a aria-expanded="false" aria-label="menu" class="navbar-burger burger" data-target="navMenu" role="button">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+      <div class="navbar-menu" id="navMenu">
+        <div class="navbar-end has-text-centered">
+          
+          
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;www.andrewadriance.com&#x2F;">
+            Home
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;www.andrewadriance.com&#x2F;curriculum">
+            Curriculum Vitae
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;www.andrewadriance.com&#x2F;posts">
+            Posts
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;www.andrewadriance.com&#x2F;tags">
+            Tags
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;www.andrewadriance.com&#x2F;categories">
+            Categories
+          </a>
+          
+          
+          
+          <a class="navbar-item" id="nav-search" title="Search" data-target="#search-modal">
+            <span class="icon">
+              <i class="fas fa-search"></i>
+            </span>
+          </a>
+          <a class="navbar-item" id="dark-mode" title="Switch to dark theme">
+            <span class="icon">
+              <i class="fas fa-adjust"></i>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+  
+
+  
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-8 is-offset-2">
+        <article class="box">
+          <nav class="breadcrumb" aria-label="breadcrumbs">
+            <ul>
+              
+              <li><a href="https:&#x2F;&#x2F;www.andrewadriance.com&#x2F;curriculum&#x2F;">Curriculum Vitae</a></li>
+              <li class="is-active"><a href="#" aria-current="page">Thesis - DHSVM Parallel</a></li>
+            </ul>
+          </nav>
+          <h1 class="title">
+            Thesis - DHSVM Parallel
+          </h1>
+          <p class="subtitle">My Graduate thesis consisted of taking an old C program desinged to simulate water sheds and making key parts of it run in parallel. In addition I modified the program to run many instances at a time, and allowed random ranges to be specified in the parameter files.</p>
+          <div class="content mt-2">
+            <h1 id="description">Description</h1>
+<p>This project takes the scientific simulation made by the Univerisity of Washington <a href="https://www.pnnl.gov/projects/distributed-hydrology-soil-vegetation-model">here</a> and optimizes it serially and makes it run in parallel. This project was completed and defended in 2018.</p>
+<p>This project has a number of interesting challenges. First off, from a Software Engineering standpoint, I'm taking a nontrivial amount of unknown code and having to write a test case suite to ensure integrity over time as I work on optimizing it. From a performance stand point this program has a variety of optimizations that can be made from compacting needlessly duplicated for loops, to large loops that can be distributed across many cores. Finally, this project isn't purely academic. This project was used by another master thesis in the Agriculture Science Department at CalPoly. This follow-up thesis dictated the direction my work took.</p>
+<p><a href="https://github.com/aadriance/DHSVM-Parallel">Github page here</a></p>
+<p><a href="https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=3174&amp;context=theses">Original Thesis paper here</a></p>
+<p><a href="https://link.springer.com/chapter/10.1007/978-3-030-16205-4_14">Published version of the paper here</a></p>
+<p><a href="https://digitalcommons.calpoly.edu/theses/2093/">Work used by this master thesis here</a></p>
+<p><a href="http://onlinelibrary.wiley.com/doi/10.1029/94WR00436/abstract">Original credit to Wigmosta et al. (1994)</a></p>
+<p>An official parallel update <a href="https://github.com/pnnl/DHSVM-PNNL/tree/parallel">now exists</a> based off of <a href="https://www.sciencedirect.com/science/article/pii/S1364815219303226?via%3Dihub">this research</a>. Which takes a different approach to my implementation.  However, it references my work which is neat.</p>
+
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+  
+  <section class="modal" id="search-modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+      <header class="modal-card-head">
+        <p class="modal-card-title">Search</p>
+      </header>
+      <section class="modal-card-body">
+        <div class="field mb-2">
+          <div class="control">
+            <input class="input" id="search" placeholder="Search this website." type="search" />
+          </div>
+        </div>
+        <div class="search-results">
+          <div class="search-results__items"></div>
+        </div>
+      </section>
+    </div>
+    <button aria-label="close" class="modal-close is-large"></button>
+  </section>
+  
+
+
+  
+  
+  
+
+  
+  
+
+  
+  <footer class="footer py-4">
+    <div class="content has-text-centered">
+      <p>
+        Built with
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-code"></i>
+          </span>
+          <span>code</span>
+        </span>
+        and
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-heart"></i>
+          </span>
+          <span>love</span>
+        </span>
+      </p>
+      <p>
+        Powered by
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-power-off"></i>
+          </span>
+          <span>zola</span>
+        </span>
+      </p>
+    </div>
+  </footer>
+  
+
+  
+  
+  
+  
+  <script src="https://www.andrewadriance.com/elasticlunr.min.js"></script>
+  <script src="https://www.andrewadriance.com/search_index.en.js"></script><script src="https://www.andrewadriance.com/js/site.js"></script>
+
+  
+  
+
+  
+  
+</body>
+
+</html>
