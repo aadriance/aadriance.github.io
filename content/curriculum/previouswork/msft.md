@@ -20,4 +20,8 @@ WHEA? Yes! We even have our own [MSDN pages](https://docs.microsoft.com/en-us/wi
 
 Usually things are not the fault of hardware, but [ECC](https://en.wikipedia.org/wiki/ECC_memory) exists for a reason.  When hardware does flip bits, it's preferable to contain the damage and bring the system down in a controlled fashion to prevent executing random instructions. Additionally, when considering cloud scale, a one-in-a-million event is a daily occurrence. You can even use memory errors to attack machines, and try to induce them using hair dryers! I'm serious, this [paper](https://www.cs.princeton.edu/~appel/papers/memerr.pdf) by Sudhakar Govindavajhala titled "Using Memory Errors to Attack a Virtual Machine" features a figure with a heat lamp attached to a desktop to induce memory errors.
 
-I love working on WHEA.  It gives me a a huge range of things to work on.  I've written PCI driver code, assembly code, implemented support for ACPI features, and much more.  WHEA covers a wide range of work in the kernel components of Windows.
+## Industry Contributions:
+
+- Input on updates to the Arm RAS Extensions
+- Review of updates to ACPI, specifically in the APEI tables.
+- Participation on the Arm RAS workgroup for SBSA requirements
