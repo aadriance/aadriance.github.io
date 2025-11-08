@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Andrew Adriance</title>
+      <link>https://www.andrewadriance.com</link>
+      <description>The random and disconnected work and thoughts of a programmer</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://www.andrewadriance.com/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>NVIDIA</title>
+          <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/curriculum/currentwork/nvidia/</link>
+          <guid>https://www.andrewadriance.com/curriculum/currentwork/nvidia/</guid>
+          <description>&lt;p&gt;I am  working on tooling and infrastructure for RAS in NVIDIA server products.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>What is High Quality Code Anyway?</title>
+          <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/highqualitycode/</link>
+          <guid>https://www.andrewadriance.com/posts/highqualitycode/</guid>
+          <description>&lt;p&gt;A great many wars have been fought over the religion of quality code. For who has not had a peer slain by the zealots of &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Test-driven_development&quot;&gt;TDD&lt;&#x2F;a&gt;? What programmer among ye has not spent longer than their heart desired on a pull request to &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Don%27t_repeat_yourself&quot;&gt;DRY&lt;&#x2F;a&gt; their code further? Who has not seen a code base lain asunder by the conquest of &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Object-oriented_programming&quot;&gt;OOP&lt;&#x2F;a&gt;?&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Learn You Some Langs</title>
+          <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/learnyousomelangs/</link>
+          <guid>https://www.andrewadriance.com/posts/learnyousomelangs/</guid>
+          <description>&lt;p&gt;Jack of all trades master of none.&lt;&#x2F;p&gt;
+&lt;p&gt;Jack of all trades master of one?&lt;&#x2F;p&gt;
+&lt;p&gt;Jack of all trades master of none... but often better than a master of one?&lt;&#x2F;p&gt;
+&lt;p&gt;What the heck was the original quote, and why would learning more programming languages be helpful?&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Your Code is Either Deprecated a Hero or Maintained as Legacy</title>
+          <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/deprecatedlegacy/</link>
+          <guid>https://www.andrewadriance.com/posts/deprecatedlegacy/</guid>
+          <description>&lt;p&gt;There is frequent discourse on how to make code more maintainable. I for one think more discussion is needed on making code deprecateable. It may be nice to envision that a beautifully designed code base will last forever, but there are two things certain for code; becoming legacy, getting deprecated, and off by one errors.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>One Month Of Posts</title>
+          <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/amonthofwriting/</link>
+          <guid>https://www.andrewadriance.com/posts/amonthofwriting/</guid>
+          <description>&lt;p&gt;This site started with a cheeky &amp;quot;Hello World&amp;quot; post in 2019. I has ambitions of writing for this site, but failed until 2022 when I found the time to do a silly piece of satire crossing the mediums of code and writing. This month that trajectory changes.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>A Programmers Zen Garden: Yak Shaving Your Text Editor</title>
+          <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/yakshavineditorzen/</link>
+          <guid>https://www.andrewadriance.com/posts/yakshavineditorzen/</guid>
+          <description>&lt;p&gt;What does a spiritual practice, the hair maintenance of a Himalayan bovine and reviewing text editor config files have in common? Having long since solved my core productivity problems, what motivates me to continue to poke and prod my config file? It&#x27;s not about optimization anymore.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>I Have Spent Far Too Long Thinking About FizzBuzz</title>
+          <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/fizzbuzzinator/</link>
+          <guid>https://www.andrewadriance.com/posts/fizzbuzzinator/</guid>
+          <description>&lt;p&gt;Welcome brave reader. It&#x27;s dangerous to go along without context. Take &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aadriance&#x2F;fizzbuzzinator&quot;&gt;this pointer&lt;&#x2F;a&gt; to the source of truth on GitHub.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Microsoft</title>
+          <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/curriculum/previouswork/msft/</link>
+          <guid>https://www.andrewadriance.com/curriculum/previouswork/msft/</guid>
+          <description>&lt;h2 id=&quot;notable-technical-projects&quot;&gt;Notable Technical Projects:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implementation of Downstream Port Containment in the Windows PCI driver.&lt;&#x2F;li&gt;
+&lt;li&gt;Extension of Downstream Port Containment support for E1.s drive surprise removal.&lt;&#x2F;li&gt;
+&lt;li&gt;Windows support for AMD&#x27;s MCAx (Extended Machine Check Architecture).&lt;&#x2F;li&gt;
+&lt;li&gt;Porting of platform specific hardware reliability features from firmware code into kernel code.&lt;&#x2F;li&gt;
+&lt;li&gt;Porting of Windows hardware reliability features for Arm platforms.&lt;&#x2F;li&gt;
+&lt;li&gt;Documentation champion, running local &amp;quot;documentation days&amp;quot; to improve documentation culture.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;WHEA? Yes! We even have our own &lt;a href=&quot;https:&#x2F;&#x2F;docs.microsoft.com&#x2F;en-us&#x2F;windows-hardware&#x2F;drivers&#x2F;whea&#x2F;&quot;&gt;MSDN pages&lt;&#x2F;a&gt;. WHEA owns &lt;a href=&quot;https:&#x2F;&#x2F;docs.microsoft.com&#x2F;en-us&#x2F;windows-hardware&#x2F;drivers&#x2F;debugger&#x2F;bug-check-0x124---whea-uncorrectable-error&quot;&gt;BSOD code 0x124&lt;&#x2F;a&gt;. If you see a BSOD 0x124 it means your hardware has slightly lost its mind and the Windows kernel is making a controlled emergency landing.  Sadly you won&#x27;t be reaching your destination this boot session, but all your files will get to ride those fine inflatable slides off the side of the plane and return home safely for when you next boot your machine. We don&#x27;t always crash your machine, we also implement recovery mechanisms to keep your machine alive.&lt;&#x2F;p&gt;
+&lt;p&gt;Usually things are not the fault of hardware, but &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;ECC_memory&quot;&gt;ECC&lt;&#x2F;a&gt; exists for a reason.  When hardware does flip bits, it&#x27;s preferable to contain the damage and bring the system down in a controlled fashion to prevent executing random instructions. Additionally, when considering cloud scale, a one-in-a-million event is a daily occurrence. You can even use memory errors to attack machines, and try to induce them using hair dryers! I&#x27;m serious, this &lt;a href=&quot;https:&#x2F;&#x2F;www.cs.princeton.edu&#x2F;~appel&#x2F;papers&#x2F;memerr.pdf&quot;&gt;paper&lt;&#x2F;a&gt; by Sudhakar Govindavajhala titled &amp;quot;Using Memory Errors to Attack a Virtual Machine&amp;quot; features a figure with a heat lamp attached to a desktop to induce memory errors.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;industry-contributions&quot;&gt;Industry Contributions:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Input on updates to the Arm RAS Extensions&lt;&#x2F;li&gt;
+&lt;li&gt;Review of updates to ACPI, specifically in the APEI tables.&lt;&#x2F;li&gt;
+&lt;li&gt;Participation on the Arm RAS workgroup for SBSA requirements&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Bullet Oasis</title>
+          <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/curriculum/college/bulletoasis/</link>
+          <guid>https://www.andrewadriance.com/curriculum/college/bulletoasis/</guid>
+          <description>&lt;div class=&quot;vimeo is-flex is-justify-content-center is-align-items-center&quot;&gt;
+    &lt;iframe
+        width=&quot;848&quot; height=&quot;510&quot;
+        title=&quot;vimeo-player&quot; 
+        src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;233264915&quot; 
+        frameborder=&quot;0&quot; 
+        allowfullscreen&gt;
+    &lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;&lt;h1 id=&quot;highlights&quot;&gt;Highlights&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Story based platforming game&lt;&#x2F;li&gt;
+&lt;li&gt;Freeze time while fighting enemy cowboys&lt;&#x2F;li&gt;
+&lt;li&gt;Avenge your father&#x27;s death&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Dodge Dungeon</title>
+          <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/curriculum/college/dodgedungeon/</link>
+          <guid>https://www.andrewadriance.com/curriculum/college/dodgedungeon/</guid>
+          <description>&lt;div class=&quot;vimeo is-flex is-justify-content-center is-align-items-center&quot;&gt;
+    &lt;iframe
+        width=&quot;848&quot; height=&quot;510&quot;
+        title=&quot;vimeo-player&quot; 
+        src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;233265101&quot; 
+        frameborder=&quot;0&quot; 
+        allowfullscreen&gt;
+    &lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;&lt;h1 id=&quot;description&quot;&gt;Description&lt;&#x2F;h1&gt;
+&lt;p&gt;Dodge Dungeon was created as a final project for my Interactive Entertainment class. The goal of the game was to make a challenging old school dungeon crawler with a wide range of fun and interesting bullet patterns for both visual enjoyment, and for the player to learn how to dodge. The game contains a save system that tracks progress as you travel through the 3 dungeons to relearn the name of your character.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;highlights&quot;&gt;Highlights&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Wide variety of enemies with different attack patterns&lt;&#x2F;li&gt;
+&lt;li&gt;Three levels of sprawling dungeons&lt;&#x2F;li&gt;
+&lt;li&gt;Fast-paced combat&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Oh Mah Lawn!</title>
+          <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/curriculum/college/mahlawn/</link>
+          <guid>https://www.andrewadriance.com/curriculum/college/mahlawn/</guid>
+          <description>&lt;div class=&quot;vimeo is-flex is-justify-content-center is-align-items-center&quot;&gt;
+    &lt;iframe
+        width=&quot;848&quot; height=&quot;510&quot;
+        title=&quot;vimeo-player&quot; 
+        src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;233265331&quot; 
+        frameborder=&quot;0&quot; 
+        allowfullscreen&gt;
+    &lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;&lt;h1 id=&quot;description&quot;&gt;Description&lt;&#x2F;h1&gt;
+&lt;p&gt;&#x27;Oh My Lawn!&#x27; was created to explore various aspects of the world of real time computer graphics. It required a constant balance between adding new features, and maintaining frame-rate. It was a valuable experience learning how to deal with adding new features and interactions to a piece of software without sacrificing the responsiveness of the project.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;highlights&quot;&gt;Highlights&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;View Frustum Culling&lt;&#x2F;li&gt;
+&lt;li&gt;Deferred Shading&lt;&#x2F;li&gt;
+&lt;li&gt;Shadow Mapping&lt;&#x2F;li&gt;
+&lt;li&gt;Billboard Particle System&lt;&#x2F;li&gt;
+&lt;li&gt;3D Positional Sound&lt;&#x2F;li&gt;
+&lt;li&gt;Non-photorealistic rendering including edge detection&lt;&#x2F;li&gt;
+&lt;li&gt;A* AI system&lt;&#x2F;li&gt;
+&lt;li&gt;World grid as a uniform spatial data structure&lt;&#x2F;li&gt;
+&lt;li&gt;Bounding Sphere Collision Detection&lt;&#x2F;li&gt;
+&lt;li&gt;Model hierarchy with animations&lt;&#x2F;li&gt;
+&lt;li&gt;JSON resource loader&lt;&#x2F;li&gt;
+&lt;li&gt;Sky Box&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>PyFuzz</title>
+          <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/curriculum/gradschool/pyfuzz/</link>
+          <guid>https://www.andrewadriance.com/curriculum/gradschool/pyfuzz/</guid>
+          <description>&lt;h1 id=&quot;description&quot;&gt;Description&lt;&#x2F;h1&gt;
+&lt;p&gt;This project was created while studying various research on automated testing tools. It takes a python file, tools the code to keep track of the programs execution path, and then it starts running it against random inputs attempting to create a crash. PyFuzz can be found &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aadriance&#x2F;530-pyFuzz&quot;&gt;here&lt;&#x2F;a&gt;. Black box testing isn&#x27;t very effective for finding crashes, but it was a worthwhile learning experience.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tooling python code&lt;&#x2F;li&gt;
+&lt;li&gt;Automatically runs code with random inputs&lt;&#x2F;li&gt;
+&lt;li&gt;Tracks code execution&lt;&#x2F;li&gt;
+&lt;li&gt;Gives a code coverage rating for the run&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Thesis - DHSVM Parallel</title>
+          <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/curriculum/gradschool/thesis/</link>
+          <guid>https://www.andrewadriance.com/curriculum/gradschool/thesis/</guid>
+          <description>&lt;h1 id=&quot;description&quot;&gt;Description&lt;&#x2F;h1&gt;
+&lt;p&gt;This project takes the scientific simulation made by the Univerisity of Washington &lt;a href=&quot;https:&#x2F;&#x2F;www.pnnl.gov&#x2F;projects&#x2F;distributed-hydrology-soil-vegetation-model&quot;&gt;here&lt;&#x2F;a&gt; and optimizes it serially and makes it run in parallel. This project was completed and defended in 2018.&lt;&#x2F;p&gt;
+&lt;p&gt;This project has a number of interesting challenges. First off, from a Software Engineering standpoint, I&#x27;m taking a nontrivial amount of unknown code and having to write a test case suite to ensure integrity over time as I work on optimizing it. From a performance stand point this program has a variety of optimizations that can be made from compacting needlessly duplicated for loops, to large loops that can be distributed across many cores. Finally, this project isn&#x27;t purely academic. This project was used by another master thesis in the Agriculture Science Department at CalPoly. This follow-up thesis dictated the direction my work took.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aadriance&#x2F;DHSVM-Parallel&quot;&gt;Github page here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;digitalcommons.calpoly.edu&#x2F;cgi&#x2F;viewcontent.cgi?article=3174&amp;amp;context=theses&quot;&gt;Original Thesis paper here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;link.springer.com&#x2F;chapter&#x2F;10.1007&#x2F;978-3-030-16205-4_14&quot;&gt;Published version of the paper here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;digitalcommons.calpoly.edu&#x2F;theses&#x2F;2093&#x2F;&quot;&gt;Work used by this master thesis here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;onlinelibrary.wiley.com&#x2F;doi&#x2F;10.1029&#x2F;94WR00436&#x2F;abstract&quot;&gt;Original credit to Wigmosta et al. (1994)&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;An official parallel update &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;pnnl&#x2F;DHSVM-PNNL&#x2F;tree&#x2F;parallel&quot;&gt;now exists&lt;&#x2F;a&gt; based off of &lt;a href=&quot;https:&#x2F;&#x2F;www.sciencedirect.com&#x2F;science&#x2F;article&#x2F;pii&#x2F;S1364815219303226?via%3Dihub&quot;&gt;this research&lt;&#x2F;a&gt;. Which takes a different approach to my implementation.  However, it references my work which is neat.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Bi-Directional Volumetric Ray Tracer</title>
+          <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/curriculum/gradschool/volray/</link>
+          <guid>https://www.andrewadriance.com/curriculum/gradschool/volray/</guid>
+          <description>&lt;h1 id=&quot;highlights&quot;&gt;Highlights&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Based off &lt;a href=&quot;https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;abs&#x2F;10.1145&#x2F;78964.78965&quot;&gt;Levoy&#x27;s&lt;&#x2F;a&gt; paper.&lt;&#x2F;li&gt;
+&lt;li&gt;Path traces from eyes and lights&lt;&#x2F;li&gt;
+&lt;li&gt;Materials affect light that passes through it&lt;&#x2F;li&gt;
+&lt;li&gt;Uses volumetric data for the world&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;cv&#x2F;ray1.png&quot; alt=&quot;ray1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;cv&#x2F;ray2.png&quot; alt=&quot;ray2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;cv&#x2F;ray3.png&quot; alt=&quot;ray3&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>FabTime</title>
+          <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/curriculum/previouswork/fabtime/</link>
+          <guid>https://www.andrewadriance.com/curriculum/previouswork/fabtime/</guid>
+          <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;fabtime.com&#x2F;index.php&quot;&gt;FabTime&lt;&#x2F;a&gt; is specialized cycle time management software designed to help wafer fabs improve their production lines.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>MonsterMe - HotHouse</title>
+          <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/curriculum/previouswork/monsterme/</link>
+          <guid>https://www.andrewadriance.com/curriculum/previouswork/monsterme/</guid>
+          <description>&lt;div class=&quot;vimeo is-flex is-justify-content-center is-align-items-center&quot;&gt;
+    &lt;iframe
+        width=&quot;848&quot; height=&quot;510&quot;
+        title=&quot;vimeo-player&quot; 
+        src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;233412134&quot; 
+        frameborder=&quot;0&quot; 
+        allowfullscreen&gt;
+    &lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;&lt;h1 id=&quot;description&quot;&gt;Description&lt;&#x2F;h1&gt;
+&lt;p&gt;MonsterMe is a fun avatar building app where your monster can run around in a world of your own creation. Many avatar creators either give you no guidance, or give you so much guidance you are limited to a few points where you can snap objects. MonsterMe sets out to find a happy in between where you can still make a wide range of avatars that look good without so much guidance that you feel like you can&#x27;t make what you want.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;highlights&quot;&gt;Highlights&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed for iOS using Swift&lt;&#x2F;li&gt;
+&lt;li&gt;Freedom to create unique monsters&lt;&#x2F;li&gt;
+&lt;li&gt;Tools to play with music and physics&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Hello World!</title>
+          <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/helloworld/</link>
+          <guid>https://www.andrewadriance.com/posts/helloworld/</guid>
+          <description>&lt;h1 id=&quot;hello&quot;&gt;Hello!&lt;&#x2F;h1&gt;
+&lt;p&gt;Welcome to my new site.  I had literally zero reason to update it.  However, I was tired
+of looking at the mess the old site was. Maybe I&#x27;ll write some blog posts. &lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

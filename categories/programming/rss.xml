@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Andrew Adriance - programming</title>
+      <link>https://www.andrewadriance.com</link>
+      <description>The random and disconnected work and thoughts of a programmer</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://www.andrewadriance.com/categories/programming/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>What is High Quality Code Anyway?</title>
+          <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/highqualitycode/</link>
+          <guid>https://www.andrewadriance.com/posts/highqualitycode/</guid>
+          <description>&lt;p&gt;A great many wars have been fought over the religion of quality code. For who has not had a peer slain by the zealots of &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Test-driven_development&quot;&gt;TDD&lt;&#x2F;a&gt;? What programmer among ye has not spent longer than their heart desired on a pull request to &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Don%27t_repeat_yourself&quot;&gt;DRY&lt;&#x2F;a&gt; their code further? Who has not seen a code base lain asunder by the conquest of &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Object-oriented_programming&quot;&gt;OOP&lt;&#x2F;a&gt;?&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Learn You Some Langs</title>
+          <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/learnyousomelangs/</link>
+          <guid>https://www.andrewadriance.com/posts/learnyousomelangs/</guid>
+          <description>&lt;p&gt;Jack of all trades master of none.&lt;&#x2F;p&gt;
+&lt;p&gt;Jack of all trades master of one?&lt;&#x2F;p&gt;
+&lt;p&gt;Jack of all trades master of none... but often better than a master of one?&lt;&#x2F;p&gt;
+&lt;p&gt;What the heck was the original quote, and why would learning more programming languages be helpful?&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Your Code is Either Deprecated a Hero or Maintained as Legacy</title>
+          <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/deprecatedlegacy/</link>
+          <guid>https://www.andrewadriance.com/posts/deprecatedlegacy/</guid>
+          <description>&lt;p&gt;There is frequent discourse on how to make code more maintainable. I for one think more discussion is needed on making code deprecateable. It may be nice to envision that a beautifully designed code base will last forever, but there are two things certain for code; becoming legacy, getting deprecated, and off by one errors.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>A Programmers Zen Garden: Yak Shaving Your Text Editor</title>
+          <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/yakshavineditorzen/</link>
+          <guid>https://www.andrewadriance.com/posts/yakshavineditorzen/</guid>
+          <description>&lt;p&gt;What does a spiritual practice, the hair maintenance of a Himalayan bovine and reviewing text editor config files have in common? Having long since solved my core productivity problems, what motivates me to continue to poke and prod my config file? It&#x27;s not about optimization anymore.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>I Have Spent Far Too Long Thinking About FizzBuzz</title>
+          <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.andrewadriance.com/posts/fizzbuzzinator/</link>
+          <guid>https://www.andrewadriance.com/posts/fizzbuzzinator/</guid>
+          <description>&lt;p&gt;Welcome brave reader. It&#x27;s dangerous to go along without context. Take &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aadriance&#x2F;fizzbuzzinator&quot;&gt;this pointer&lt;&#x2F;a&gt; to the source of truth on GitHub.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
